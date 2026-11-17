@@ -1,0 +1,9 @@
+{
+  "product": "Excel Macro Corner",
+  "version": "9.5.9",
+  "channel": "stable",
+  "updated": "2026-11-17",
+  "mirror_region": "eu-west",
+  "auto_update": true,
+  "telemetry": false
+}
